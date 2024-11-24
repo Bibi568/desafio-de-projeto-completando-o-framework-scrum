@@ -50,3 +50,33 @@ Neste desafio, você completará o Framework Scrum, fixando seus pilares, valore
 - **Increment:** Entregável funcional e pronto ao final de cada Sprint.  
 
 Esses elementos promovem organização, transparência e foco na entrega de valor.
+
+## Framework Scrum
+
+![Bianca Gomes Pinto  Desafio de Projeto - SCRUM (3)](https://github.com/user-attachments/assets/e7c40638-e172-4044-b93c-4e6ef3dda43e)
+
+Com base na imagem do framework Scrum:
+
+**Ciclo do Scrum:**
+
+1. **Artefatos:**
+   - **Product Backlog:** Lista priorizada de tudo que precisa ser desenvolvido no produto, mantida pelo **Product Owner**.
+   - **Sprint Backlog:** Seleção de itens do Product Backlog para a Sprint, com um plano para entregá-los.
+   - **Incremento:** Conjunto de entregas funcionais e prontas ao final de cada Sprint.
+
+2. **Equipe Scrum (Scrum Team):**
+   - **Scrum Master:** Facilita o processo e remove impedimentos.
+   - **Product Owner:** Define prioridades no Product Backlog e garante entrega de valor.
+   - **Developers:** Planejam, desenvolvem e entregam o incremento.
+
+3. **Eventos e Time-Box:**
+   - **Sprint:** Ciclo fixo de até 4 semanas, onde ocorre o trabalho planejado.
+   - **Sprint Planning (até 8 horas):** Planeja o que será feito na Sprint e como o trabalho será realizado.
+   - **Daily Scrum (15 minutos):** Reunião diária para alinhar o progresso e ajustar planos.
+   - **Sprint Review (até 4 horas):** Apresenta o incremento concluído e coleta feedback.
+   - **Sprint Retrospective (até 3 horas):** Avalia o processo da Sprint para melhorias no próximo ciclo.
+
+**Fluxo:**  
+O **Product Owner** prioriza o **Product Backlog**, os **Developers** selecionam itens para o **Sprint Backlog** na **Sprint Planning** e trabalham no incremento durante a **Sprint**. Diariamente, alinham o progresso no **Daily Scrum**. Ao final, apresentam o trabalho na **Sprint Review** e melhoram o processo na **Sprint Retrospective**. Esse ciclo contínuo garante entregas frequentes e melhoria constante.
+
+## Link para o quadro no Miro: https://miro.com/app/board/uXjVLA1IVZ4=/?share_link_id=335729218948
