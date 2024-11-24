@@ -24,3 +24,29 @@ Neste desafio, você completará o Framework Scrum, fixando seus pilares, valore
 **Respeito:** Reconhece as contribuições de cada membro, fortalecendo a colaboração.
 
 **Coragem:** Motiva a enfrentar desafios e tomar decisões difíceis.
+
+## Estrutura do Scrum
+
+![Bianca Gomes Pinto  Desafio de Projeto - SCRUM (2)](https://github.com/user-attachments/assets/a915c478-8507-4dbc-ad60-61336692ed02)
+
+**Scrum Team:** É formado pelo Scrum Master, Product Owner e Developers. Trabalham juntos de forma colaborativa, autogerenciável e multifuncional para entregar valor continuamente.  
+
+**Eventos:**  
+- **Sprint:** Ciclo fixo de trabalho que guia o desenvolvimento.
+  
+- **Sprint Planning:** Planeja o trabalho para a Sprint.
+   
+- **Daily Scrum:** Reunião diária para alinhamento.
+  
+- **Sprint Review:** Avalia entregas e coleta feedback.
+   
+- **Sprint Retrospective:** Melhora processos e colaboração.  
+
+**Artefatos:**  
+- **Product Backlog:** Lista priorizada de tudo que será desenvolvido.
+
+- **Sprint Backlog:** Itens do Product Backlog planejados para a Sprint.
+   
+- **Increment:** Entregável funcional e pronto ao final de cada Sprint.  
+
+Esses elementos promovem organização, transparência e foco na entrega de valor.
